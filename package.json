@@ -1,8 +1,8 @@
 {
   "name": "vscode-apache",
   "displayName": "Apache Conf",
-  "description": "Syntax highlighter for Apache configuration files",
-  "version": "1.2.0",
+  "description": "Syntax highlighter for IINA’s keyboard configuration files",
+  "version": "0.0.1",
   "publisher": "mrmlnc",
   "license": "MIT",
   "engines": {
